@@ -12,17 +12,17 @@
   To see the API in action, please refer to the walkthrough video that demonstrates its functionality and meets the following acceptance criteria:
 
   Acceptance Criteria
-    - The API should allow users to create a new user profile with a username and email.
-    - The API should allow users to retrieve all users or a single user by ID.
-    - The API should allow users to update their own profile.
-    - The API should allow users to delete their own profile.
-    - The API should allow users to create a new thought with a message and a username associated with it.
-    - The API should allow users to retrieve all thoughts or a single thought by ID.
-    - The API should allow users to update their own thoughts.
-    - The API should allow users to delete their own thoughts.
-    - The API should allow users to add a reaction to a thought.
-    - The API should allow users to remove a reaction from a thought.
-    - The API should allow users to add and remove friends to their friend list.
+  - The API should allow users to create a new user profile with a username and email.
+  - The API should allow users to retrieve all users or a single user by ID.
+  - The API should allow users to update their own profile.
+  - The API should allow users to delete their own profile.
+  - The API should allow users to create a new thought with a message and a username associated with it.
+  - The API should allow users to retrieve all thoughts or a single thought by ID.
+  - The API should allow users to update their own thoughts.
+  - The API should allow users to delete their own thoughts.
+  - The API should allow users to add a reaction to a thought.
+  - The API should allow users to remove a reaction from a thought.
+  - The API should allow users to add and remove friends to their friend list.
 
   ## Table of Contents
 
