@@ -34,7 +34,7 @@
 
   ## Installation
 
-  Copy the package from my repository, navigate to the project directory in your command line interface, and enter the command 'npm i' to download the necessary dependencies. Once completed, run the command 'npm start' to start the application.
+  Copy the package from my repository, navigate to the project directory in your command line interface, and enter the command 'npm i' to download the necessary dependencies. Once completed, run the command 'node index' to start the application.
   
   After starting the app, open Insomnia and navigate to http://localhost:3001/api/users/ to create a new user with a POST request. It's important to note that there are no seeds available, so you'll need to create a user in order to interact with the API.
 
