@@ -56,9 +56,8 @@
   - Email: guy.jiawei.anderson@gmail.com
 
   ## Demo
+  View the demo here:
+  https://drive.google.com/file/d/1-AE9gjwVA9FBthbrAIJ73MWCIqj9WhJP/view?usp=share_link
 
-  ![GIF](./Assets/Demo.gif)
+  ![GIF](./assets/Social_Network_API_GIF.gif)
 
-  ## Screenshot
-
-  ![Screenshot](./Assets/html_pic.png)
